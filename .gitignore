@@ -171,8 +171,11 @@ cython_debug/
 .pypirc
 
 # Prevents data folder from being committed.
-data/
-input/
+project/data/**
+!project/data/.gitkeep
+
+project/input/**
+!project/input/.gitkeep
 
 # Prevents Lecture and MITGCM model from being committed.
 MITgcm/

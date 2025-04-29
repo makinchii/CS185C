@@ -26,8 +26,8 @@
 # Time stepping parameters
  &PARM03
  niter0=0,
- deltaT=300.,
- nTimeSteps = 1051920,
+ deltaT=90.,
+ nTimeSteps = 3506400,
  pChkptFreq=2592000.,
  dumpInitAndLast=.FALSE.,
  writePickupAtEnd=.TRUE.,
@@ -36,8 +36,8 @@
 # Gridding parameters
  &PARM04
  usingSphericalPolarGrid=.TRUE.,
- delX=121.0*0.025,
- delY=161*0.025,
+ delX=140.0*0.025,
+ delY=180*0.025,
  xgOrigin=106.0,
  ygOrigin=18.5,
  delR = 2.0, 2.0, 2.0, 2.0, 5.0, 5.0, 5.0, 10.0, 10.0, 20.0, 20.0, 25.0, 25.0, 25.0, 30.0, 30.0, 30.0

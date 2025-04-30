@@ -3,9 +3,9 @@
 # *********************
 
  &EXF_NML_01
- exf_albedo        = 0.1,
- useExfZenIncoming = .TRUE., 
- select_ZenAlbedo  = 1,
+# exf_albedo        = 0.1,
+# useExfZenIncoming = .TRUE., 
+# select_ZenAlbedo  = 1,
  useExfYearlyFields= .TRUE.,
  useExfCheckRange  = .FALSE.,
  /
@@ -18,7 +18,7 @@
  precipfile        = 'exf/PRECIP',
  swdownfile        = 'exf/SWDOWN',
  lwdownfile        = 'exf/LWDOWN',
- runofffile        = 'exf/RUNOFF',
+# runofffile        = 'exf/RUNOFF',
 #
  atempstartdate1   = 20040101,
  atempstartdate2   = 000000,
@@ -32,9 +32,9 @@
  precipstartdate2  = 000000,
  precipperiod      = 21600.0,
 #
- runoffstartdate1  = 20040101,
- runoffstartdate2  = 000000,
- runoffperiod      = 21600.0,
+# runoffstartdate1  = 20040101,
+# runoffstartdate2  = 000000,
+# runoffperiod      = 21600.0,
 #
  uwindstartdate1   = 20040101,
  uwindstartdate2   = 000000,

@@ -39,12 +39,12 @@
   frequency(5) = 86400.,
   levels(:,5) = 1,
 #
-  fields(3,1) = 'MXLDEPTH',
+  fields(1,6) = 'MXLDEPTH   ',
   fileName(6) = 'diags/MXLDEPTH_day_snap/MXLDEPTH_day_snap',
   frequency(6) = -86400.,
   levels(:,6) = 1,
 #
-  fields(3,2) = 'MXLDEPTH',
+  fields(1,7) = 'MXLDEPTH   ',
   fileName(7) = 'diags/MXLDEPTH_mon_mean/MXLDEPTH_mon_mean',
   frequency(7) = 2592000.,
   levels(:,7) = 1,

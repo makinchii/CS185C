@@ -70,11 +70,11 @@
  /
 
  &EXF_NML_OBCS
-  obcsEstartdate1 = 20040101,
+  obcsEstartdate1 = 20040116,
   obcsEstartdate2 = 000000,
   obcsEperiod     = 2592000.0,
 #  
-  obcsSstartdate1 = 20040101,
+  obcsSstartdate1 = 20040116,
   obcsSstartdate2 = 000000,
   obcsSperiod     = 2592000.0,
 #

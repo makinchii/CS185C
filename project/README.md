@@ -1,10 +1,10 @@
 # Project Description 
 
-In this project I will investigate the World Heritage Site Ha Long Bay, located in Vietnam. Specifically, I will investigate the following question:
+In this project, I take a closer look at the Tonkin Gulf located between the Eastern coast of Vietnam and Hainan island to study processes in an enclosed area of ocean. I investigate the following question:
 
-*How might the oceanic conditions surrounding Ha Long Bay affect the karsts physically over time?*
+*WHat role do winds and precipitation play in an enclosed area where oceanic waves aren't as prevalant?*
 
-The objectives of this experiment are to explore and quantify how winds, rain, and ocean movement erode karst formations in Ha Long Bay. Additionally, I would like to identify mixing spots where dissolution is maximized. 
-My model will focus on the region of the Tonkin Gulf, at 18.5°–21.5°N, 106.7°–107.3°E and will be ran for a decade. To show the role that the ocean plays in eroding the karst formations, two models will be run. One model contains winds and rain while the other doesn't. The model will be ran starting from January, 2004. I think that the model without any eroding forces will result in lower mixed-layer depths due to the lack of eroding forces and thus demonstrate the impact that these forces have on Ha Long Bay.
+The objectives of this experiment are to explore and quantify how winds and rain play a role in shaping the temperatures, salinity, and other variables within the Tonkin Gulf. 
+My model will focus on the region of the Tonkin Gulf, at 18.5°–22°N, 105.5°–110°E and will be ran for a year. To show the role that wind and rain play in the ocean, two models will be run. One model will contain winds and rain while the other doesn't. The model will be ran starting from January 1st, 2004. I think that the model without any wind or rain will result in higher temperatures, salinity, and less water movement in the area due to lower zonal and meridional velocities,
 
 To initialize the model, I will utilize data from the ECCO Version 5 in January of 2004, which will also be used to to construct the boundary and external forcing conditions. To visualize the results, two time series of each model will be created to allow for analysis through time. Additionally, several frames of graphs will be made into a movie, thus allowing for a visual comparison as to how oceanic conditions have an effect on the karst formations at Ha Long Bay.

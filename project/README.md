@@ -13,12 +13,12 @@ To initialize the model, I will utilize data from the ECCO Version 5 in January 
 
 In order to conduct this experiment, follow the notebooks in this order:
 
-1.Model Grid
-2.Bathymetry
-3.Setting Up Initial Conditions
-4.External Forcing Conditions
-5.Creating the Boundaries
-6.Generating Visual Graphs
-7.Analyzing the Differences Between Models
+1. Model Grid
+2. Bathymetry
+3. Setting Up Initial Conditions
+4. External Forcing Conditions
+5. Creating the Boundaries
+6. Generating Visual Graphs
+7. Analyzing the Differences Between Models
 
 Additionally, there is another notebook, Concluding Statements, which has some reflections on the experiment after the fact.
